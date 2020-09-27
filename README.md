@@ -10,5 +10,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <h4 align="center">
-    Feito com 💜 por <a href="https://www.linkedin.com/in/alexandre-bulcao/" target="_blank">Alexandre Bulcão</a>
+    Feito com 💜 por <a href="https://github.com/ambulcao" target="_blank">Alexandre Bulcão</a>
 </h4>
